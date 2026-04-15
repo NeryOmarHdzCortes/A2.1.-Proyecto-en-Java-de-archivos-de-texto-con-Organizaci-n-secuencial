@@ -1,0 +1,8 @@
+21,32,Faltó
+q,4,falto
+er,455d,falto
+Elfo,23/30/45,asistio
+rafael,12 de nery,falto
+Olga,23/02/2043,Asistió
+Josue,13/04/2026,Asistió
+Emanuel,14/04/26,Asistió
