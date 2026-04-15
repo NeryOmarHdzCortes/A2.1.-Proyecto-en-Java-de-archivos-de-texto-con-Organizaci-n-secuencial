@@ -1,6 +1,0 @@
-24920206,Nery Omar,Ing Informatica,90.0
-24920207,Nery Eli Gonzales Cortes,Biologia,100.0
-24920206,Elizabeth Gomez,TICS,100.0
-249202339,Gaber,orgng,111.0
-33,ddd,www,6.0
-24954201,Samantha,Lic Biologia,76.0
