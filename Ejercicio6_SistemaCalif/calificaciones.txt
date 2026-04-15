@@ -1,0 +1,2 @@
+Nery,Base,90.0
+Maria,Calculo Integral,69.0
